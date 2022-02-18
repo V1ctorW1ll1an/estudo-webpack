@@ -1,6 +1,6 @@
 import Pessoa from "./pessoa";
 import "./modules/moduleA";
-import "./assets/css/estilo.css";
+import "./assets";
 
 const atendente = new Pessoa();
 
