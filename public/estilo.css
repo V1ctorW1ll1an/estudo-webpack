@@ -1,1 +1,17 @@
-body{background-color:green}.botao{background-color:#19b3e6;color:#fff;font-size:1.8em}
+/*!********************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/assets/css/estilo.css ***!
+  \********************************************************************************************************************/
+body {
+  background-color: green;
+  background-image: url(c4cf0c77f535d45de772.jpeg);
+  background-repeat: no-repeat;
+  background-position: center; }
+
+/*!*********************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/assets/scss/index.scss ***!
+  \*********************************************************************************************************************/
+.botao {
+  background-color: #19b3e6;
+  color: #fff;
+  font-size: 1.8em; }
+
