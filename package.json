@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "start": "webpack",
+        "start": "webpack-dev-server",
         "build": "cross-env NODE_ENV=production webpack"
     },
     "repository": "git@github.com:V1ctorW1ll1an/estudo-webpack.git",
@@ -22,6 +22,7 @@
         "webpack-cli": "^4.9.2"
     },
     "dependencies": {
-        "file-loader": "^6.2.0"
+        "file-loader": "^6.2.0",
+        "webpack-dev-server": "^4.7.4"
     }
 }

@@ -11,6 +11,9 @@ module.exports = {
         filename: "main.js",
         path: __dirname + "/public",
     },
+    devServer: {
+        port: 9000,
+    },
     optimization: {
         minimizer: [
             new UglifyJsPlugin({
